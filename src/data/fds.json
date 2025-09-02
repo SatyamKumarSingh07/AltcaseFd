@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "issuer": "HDFC Bank",
+    "interest_rate": 6.5,
+    "tenure": "3 years",
+    "rating": "AAA",
+    "lock_in_period": "None",
+    "minimum_investment": 5000
+  },
+  {
+    "id": 2,
+    "issuer": "SBI",
+    "interest_rate": 6.0,
+    "tenure": "5 years",
+    "rating": "AA+",
+    "lock_in_period": "6 months",
+    "minimum_investment": 10000
+  },
+  {
+    "id": 3,
+    "issuer": "ICICI Bank",
+    "interest_rate": 6.8,
+    "tenure": "2 years",
+    "rating": "AAA",
+    "lock_in_period": "None",
+    "minimum_investment": 5000
+  },
+  {
+    "id": 4,
+    "issuer": "Axis Bank",
+    "interest_rate": 6.2,
+    "tenure": "3 years",
+    "rating": "AA",
+    "lock_in_period": "3 months",
+    "minimum_investment": 10000
+  },
+  {
+    "id": 5,
+    "issuer": "Kotak Bank",
+    "interest_rate": 7.0,
+    "tenure": "1 year",
+    "rating": "AAA",
+    "lock_in_period": "None",
+    "minimum_investment": 5000
+  },
+  {
+    "id": 6,
+    "issuer": "Punjab National Bank",
+    "interest_rate": 5.8,
+    "tenure": "7 years",
+    "rating": "AA",
+    "lock_in_period": "6 months",
+    "minimum_investment": 10000
+  },
+  {
+    "id": 7,
+    "issuer": "Bank of Baroda",
+    "interest_rate": 6.3,
+    "tenure": "2 years",
+    "rating": "AA+",
+    "lock_in_period": "None",
+    "minimum_investment": 5000
+  },
+  {
+    "id": 8,
+    "issuer": "Canara Bank",
+    "interest_rate": 6.1,
+    "tenure": "4 years",
+    "rating": "AA",
+    "lock_in_period": "3 months",
+    "minimum_investment": 10000
+  },
+  {
+    "id": 9,
+    "issuer": "Yes Bank",
+    "interest_rate": 7.2,
+    "tenure": "18 months",
+    "rating": "A+",
+    "lock_in_period": "None",
+    "minimum_investment": 10000
+  },
+  {
+    "id": 10,
+    "issuer": "Union Bank of India",
+    "interest_rate": 6.0,
+    "tenure": "5 years",
+    "rating": "AA",
+    "lock_in_period": "6 months",
+    "minimum_investment": 5000
+  },
+  {
+    "id": 11,
+    "issuer": "IDFC First Bank",
+    "interest_rate": 7.1,
+    "tenure": "2 years",
+    "rating": "AA+",
+    "lock_in_period": "None",
+    "minimum_investment": 10000
+  },
+  {
+    "id": 12,
+    "issuer": "Indian Bank",
+    "interest_rate": 6.4,
+    "tenure": "3 years",
+    "rating": "AA",
+    "lock_in_period": "3 months",
+    "minimum_investment": 5000
+  },
+  {
+    "id": 13,
+    "issuer": "Bajaj Finance",
+    "interest_rate": 7.4,
+    "tenure": "3 years",
+    "rating": "AAA",
+    "lock_in_period": "None",
+    "minimum_investment": 15000
+  },
+  {
+    "id": 14,
+    "issuer": "Federal Bank",
+    "interest_rate": 6.7,
+    "tenure": "1 year",
+    "rating": "AA+",
+    "lock_in_period": "None",
+    "minimum_investment": 5000
+  },
+  {
+    "id": 15,
+    "issuer": "Standard Chartered",
+    "interest_rate": 6.9,
+    "tenure": "2 years",
+    "rating": "AAA",
+    "lock_in_period": "3 months",
+    "minimum_investment": 10000
+  }
+]
